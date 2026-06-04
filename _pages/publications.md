@@ -10,6 +10,10 @@ For the full publication list, see [[Google Scholar Profile](https://scholar.goo
 
 ### 2026
 
+Powering Agents with Generative AI: A Research Agenda for Generative Agent-Based Models
+Philippe J. Giabbanelli, Hamdi Kavak, Samarth Swarup, **Qingyun Wang**. in e 2026 Winter Simulation Conference
+
+
 **[When to Think, When to Speak: Learning Disclosure Policies for Large Language Model Reasoning](https://arxiv.org/abs/2605.03314)** <br>
 Jiaqi Wei, Xuehang Guo, Pengfei Yu, Xiang Zhang, Wanli Ouyang, Siqi Sun, **Qingyun Wang**, Chenyu You. in **ICML 2026**.<br>
 [[Paper]](https://arxiv.org/abs/2605.03314)
