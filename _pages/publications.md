@@ -10,7 +10,7 @@ For the full publication list, see [[Google Scholar Profile](https://scholar.goo
 
 ### 2026
 
-Powering Agents with Generative AI: A Research Agenda for Generative Agent-Based Models
+**Powering Agents with Generative AI: A Research Agenda for Generative Agent-Based Models** <br>
 Philippe J. Giabbanelli, Hamdi Kavak, Samarth Swarup, **Qingyun Wang**. in 2026 Winter Simulation Conference
 
 
