@@ -47,7 +47,7 @@ author_profile: true
     <div class="subtitle">PhD (2025–)<br></div>
   </div>
   <div class="profile">
-    <img class="avatar" src="https://yxc-cyber.github.io/author/%E6%9D%A8%E5%AD%9D%E7%A8%8B/avatar_hu8271843302373655354.jpg" alt="Xiaocheng Yang ">
+    <img class="avatar" src="https://yxc-cyber.github.io/assets/portrait.jpg" alt="Xiaocheng Yang ">
     <div class="name"><a href="https://yxc-cyber.github.io/">Xiaocheng Yang </a></div>
     <div class="subtitle">PhD (2026–)<br></div>
   </div>
