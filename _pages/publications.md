@@ -24,7 +24,7 @@ Yee Man Choi, Xuehang Guo, Yi R. Fung, **Qingyun Wang**. in **ACL 2026**. <b>(Or
 [[Paper]](https://arxiv.org/abs/2510.17853) [[Code]](https://github.com/KathCYM/CiteGuard) [[Project]](https://kathcym.github.io/CiteGuard_Page/)
 
 **[Improving Evidence-Based Practice Through the Development and Validation of Key Words to Identify Intervention Articles in Communication Disorders](https://pubmed.ncbi.nlm.nih.gov/41790954/)**<br>
-Sonia Islam Nisha, **Qingyun Wang**, Charles Yu, Heng Ji, Alison Eisel Hendricks. in Language, Speech, and Hearing Services in Schools (**LSHSS 2026**) 
+Sonia Islam Nisha, **Qingyun Wang**, Charles Yu, Heng Ji, Alison Eisel Hendricks. in Language, Speech, and Hearing Services in Schools (**LSHSS 2026**) [[Paper]](https://pubmed.ncbi.nlm.nih.gov/41790954/)
 
 ### 2025
 
