@@ -21,7 +21,7 @@ Jiaqi Wei, Xuehang Guo, Pengfei Yu, Xiang Zhang, Wanli Ouyang, Siqi Sun, **Qingy
 
 **[CiteGuard: Faithful Citation Attribution for LLMs via Retrieval-Augmented Validation](https://kathcym.github.io/CiteGuard_Page/)** <br>
 Yee Man Choi, Xuehang Guo, Yi R. Fung, **Qingyun Wang**. in **ACL 2026**. <b>(Oral Presentation)</b><br>
-[[Paper]](https://arxiv.org/abs/2510.17853) [[Code]](https://github.com/KathCYM/CiteGuard) [[Project]](https://kathcym.github.io/CiteGuard_Page/)
+[[Paper]](https://aclanthology.org/2026.acl-long.282.pdf) [[Code]](https://github.com/KathCYM/CiteGuard) [[Project]](https://kathcym.github.io/CiteGuard_Page/)  [[Bib]](https://aclanthology.org/2026.acl-long.282.bib)
 
 **[Improving Evidence-Based Practice Through the Development and Validation of Key Words to Identify Intervention Articles in Communication Disorders](https://pubmed.ncbi.nlm.nih.gov/41790954/)**<br>
 Sonia Islam Nisha, **Qingyun Wang**, Charles Yu, Heng Ji, Alison Eisel Hendricks. in Language, Speech, and Hearing Services in Schools (**LSHSS 2026**) [[Paper]](https://pubmed.ncbi.nlm.nih.gov/41790954/)
