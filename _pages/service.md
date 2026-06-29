@@ -50,6 +50,7 @@ author_profile: true
 * Entered the finalist in [the first Amazon Alexa Prize](https://everydaymatters.rpi.edu/rensselaer-team-is-finalist-in-2-5-million-amazon-alexa-prize/) with $100,000 grant for research (2016)
 
 ## Media Coverage
+* <b>[Cosmic Horizons Speaker Highlight](https://www.linkedin.com/posts/nsfsimonscosmicai_cosmic-horizons-speaker-highlight-qingyun-activity-7350526813674090498-vk1u/)</b> NSF-Simons AI Institute for Cosmic Origins (CosmicAI)
 * <b>[#AAAI2025 workshops round-up 1: Artificial intelligence for music, and towards a knowledge-grounded scientific research lifecycle](https://aihub.org/2025/03/18/aaai2025-workshops-round-up-1-artificial-intelligence-for-music-and-towards-a-knowledge-grounded-scientific-research-lifecycle/)</b> AIhub
 * <b>[Conferences & Publications - Scientific Inspiration Machines Optimized for Novelty](https://emails.illinois.edu/newsletter/65/1586421965.html)</b>, Molecule Maker Lab Newsletter - Issue 35
 * <b>[AI Breakdown - SciMON: Scientific Inspiration Machines Optimized for Novelty](https://www.podbean.com/media/share/pb-kmze6-1590ab3?utm_campaign=au_share_ep&utm_medium=dlink&utm_source=au_share)</b>, AI Breakdown
