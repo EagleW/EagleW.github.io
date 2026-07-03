@@ -39,6 +39,8 @@ I'm happy to collaborate and answer questions about my research.
 
 # Recent News
 
+* Jul 3, 2025: We received OpenAI research credits for our research! Thanks to  OpenAI’s Researcher Access Program.
+
 * Apr 30, 2026: One paper accepted to ICML 2026! Congrats to all the students and collaborators.
 
 * Apr 6, 2026: One paper accepted to ACL 2026! Congrats to all the students and collaborators.
