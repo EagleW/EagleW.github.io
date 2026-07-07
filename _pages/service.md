@@ -39,9 +39,9 @@ author_profile: true
 
 
 ## Grants
-* OpenAI API Researcher Access Program $1,000, 2026
-* William & Mary Applied Research & Innovation Initiative Full Grant $170,000, 2026
-* Google Cloud Research Credits, (2025-2026)
+* OpenAI Researcher Access Program, 2026-2027
+* William & Mary Applied Research & Innovation Initiative Full Grant $170,000, 2026-2028
+* Google Cloud Research Credits, 2025-2026
 * Co-PI of ACCESS Accelerate Project: CIS240136 AI-Assisted Automated Laboratory with Multimodal Scientific Large Language Models, 2024
 * PI of ACCESS Accelerate Project: CIS230280 Fine-Grained Named Entity Recognition with Self-Validation, 2023
 
