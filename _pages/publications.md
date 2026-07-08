@@ -10,6 +10,11 @@ For the full publication list, see [[Google Scholar Profile](https://scholar.goo
 
 ### 2026
 
+**CURV: Enhancing Chart Understanding Through Curriculum Visual Grounded Reasoning** <br>
+Xuehang Guo, Pingyue Zhang, Ruiyi Zhang, Zhenhailong Wang, Hanrui Lyu, Heng Ji, Tong Sun **Qingyun Wang**, Manling Li. in **COLM 2026**.  <br>
+<!-- [[Paper]]() -->
+
+
 **Powering Agents with Generative AI: A Research Agenda for Generative Agent-Based Models** <br>
 Philippe J. Giabbanelli, Hamdi Kavak, Samarth Swarup, **Qingyun Wang**. in 2026 Winter Simulation Conference
 
