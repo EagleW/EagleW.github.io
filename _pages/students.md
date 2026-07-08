@@ -61,6 +61,6 @@ author_profile: true
 * Jiayi He, 2024-2025, Undergraduate at South China University of Technology → PhD @ Georgia Institute of Technology
 * Hehai Lin, 2024-2025, Undergraduate at Sun Yat-sen University → PhD @ HKUST
 * Yumeng Wang, 2024-2025, Undergraduate at HKUST → PhD @ UIUC
-* Priya Pitre, 2024-2025, MS Student at Virginia Tech, → PhD @ Virginia Tech
-* Hongyi Liu, 2023-2024, Undergraduate at Shanghai Jiaotong University →  PhD @ University of Wisconsin-Madison
+* Priya Pitre, 2024-2025, MS Student at Virginia Tech → PhD @ Virginia Tech
+* Hongyi Liu, 2023-2024, Undergraduate at Shanghai Jiaotong University → PhD @ University of Wisconsin-Madison
 * and more
