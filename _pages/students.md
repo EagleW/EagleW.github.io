@@ -56,6 +56,7 @@ author_profile: true
 
 ## Alumni
 * Yee Man Choi, 2025-2026, PhD @ University of Waterloo
+* Kelvin Yuxiang Huang, 2025-2026, Undergraduate at University of California Berkeley → PhD @ University of Toronto
 * Jinglin Jian, 2025, MS Student at UIUC → PhD @ Scripps Research
 * Jiayi He, 2024-2025, Undergraduate at South China University of Technology → PhD @ Georgia Institute of Technology
 * Hehai Lin, 2024-2025, Undergraduate at Sun Yat-sen University → PhD @ HKUST
