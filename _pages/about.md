@@ -32,7 +32,7 @@ I am among the <b>first researchers</b> to develop a <i>virtual scientific resea
 
 # Prospective students
 
-I am constantly looking for highly motivated PhD students (as fully-funded RAs/TAs) and interns to join my lab! If you are interested in working with me, please fill [[this form]](https://docs.google.com/forms/d/e/1FAIpQLSe4Pp41ms48_8Ovj7l4s0YRdMZMjQHIdnDRdFRUMPNM_OgByQ/viewform?usp=dialog), and [[apply for admission]](https://cdsp.wm.edu/admissions/graduate/data-science/) to William & Mary. After completing the form, you are also welcome to reach out via email (qwang16 [at] wm [dot] edu). I will read all submitted forms and emails but I do apologize for not being able to respond to each of them. [Prospective Students English](https://eaglew.github.io/recruiting), [Prospective Students Chinese](https://www.1point3acres.com/bbs/thread-1151184-1-1.html) 
+I am constantly looking for highly motivated PhD students (as fully-funded RAs/TAs) and interns to join our  AI4Scientist lab! If you are interested in working with me, please fill [[this form]](https://docs.google.com/forms/d/e/1FAIpQLSe4Pp41ms48_8Ovj7l4s0YRdMZMjQHIdnDRdFRUMPNM_OgByQ/viewform?usp=dialog), and [[apply for admission]](https://cdsp.wm.edu/admissions/graduate/data-science/) to William & Mary. After completing the form, you are also welcome to reach out via email (qwang16 [at] wm [dot] edu). I will read all submitted forms and emails but I do apologize for not being able to respond to each of them. [Prospective Students English](https://eaglew.github.io/recruiting), [Prospective Students Chinese](https://www.1point3acres.com/bbs/thread-1151184-1-1.html) 
 
 I'm happy to collaborate and answer questions about my research. 
 
