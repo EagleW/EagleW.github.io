@@ -41,7 +41,7 @@ I'm happy to collaborate and answer questions about my research.
 
 * Jul 8, 2026: One paper accepted to COLM 2026! Congrats to all the students and collaborators.
 
-* Jul 3, 2025: We received OpenAI research credits for our research! Thanks to  OpenAI’s Researcher Access Program.
+* Jul 3, 2026: We received OpenAI research credits for our research! Thanks to  OpenAI’s Researcher Access Program.
 
 * Apr 30, 2026: One paper accepted to ICML 2026! Congrats to all the students and collaborators.
 

@@ -33,3 +33,4 @@ author_profile: true
 ### PhD Life
 * [[A Survival Guide to a PhD] by Andrej Karpathy](https://karpathy.github.io/2016/09/07/phd/)
 * [[PhD Advice] by Kevin Gimpel](https://home.ttic.edu/~kgimpel/etc/phd-advice.pdf)
+* [[Notes on the Industry Job Search] by Alisa Liu](https://alisawuffles.github.io/blog/job-search/)
