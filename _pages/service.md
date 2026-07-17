@@ -51,6 +51,8 @@ author_profile: true
 * Entered the finalist in [the first Amazon Alexa Prize](https://everydaymatters.rpi.edu/rensselaer-team-is-finalist-in-2-5-million-amazon-alexa-prize/) with $100,000 grant for research (2016)
 
 ## Media Coverage
+* <b>[Protecting America's Water Infrastructure Starts with Predicting Cyberattacks
+](https://cdsp.wm.edu/about/news-events/news/protecting-americas-water-infrastructure-starts-with-predicting-cyberattacks.php)</b>, CDSP @ William & Mary
 * <b>[Cosmic Horizons Speaker Highlight](https://www.linkedin.com/posts/nsfsimonscosmicai_cosmic-horizons-speaker-highlight-qingyun-activity-7350526813674090498-vk1u/)</b> NSF-Simons AI Institute for Cosmic Origins (CosmicAI)
 * <b>[#AAAI2025 workshops round-up 1: Artificial intelligence for music, and towards a knowledge-grounded scientific research lifecycle](https://aihub.org/2025/03/18/aaai2025-workshops-round-up-1-artificial-intelligence-for-music-and-towards-a-knowledge-grounded-scientific-research-lifecycle/)</b> AIhub
 * <b>[Conferences & Publications - Scientific Inspiration Machines Optimized for Novelty](https://emails.illinois.edu/newsletter/65/1586421965.html)</b>, Molecule Maker Lab Newsletter - Issue 35
