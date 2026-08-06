@@ -39,7 +39,7 @@ author_profile: true
 
 
 ## Grants
-* Oak Ridge Leadership Computing Facility (OLCF) Director’s Discretionary Project, 2026-2027
+* Oak Ridge Leadership Computing Facility (OLCF) Director Discretionary Project, 2026-2027
 * OpenAI Researcher Access Program, 2026-2027
 * William & Mary Applied Research & Innovation Initiative Full Grant $170,000, 2026-2028
 * Google Cloud Research Credits, 2025-2026
