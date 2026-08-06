@@ -10,9 +10,9 @@ For the full publication list, see [[Google Scholar Profile](https://scholar.goo
 
 ### 2026
 
-**CURV: Enhancing Chart Understanding Through Curriculum Visual Grounded Reasoning** <br>
+**[CURV: Enhancing Chart Understanding Through Curriculum Visual Grounded Reasoning](https://arxiv.org/abs/2608.02833)** <br>
 Xuehang Guo, Pingyue Zhang, Ruiyi Zhang, Zhenhailong Wang, Hanrui Lyu, Heng Ji, Tong Sun **Qingyun Wang**, Manling Li. in **COLM 2026**.  <br>
-[[Paper]](https://arxiv.org/pdf/2608.02833) [[Code]](https://github.com/xhguo7/CURV) [[Project]](https://xhguo7.github.io/CURV//)  
+[[Paper]](https://arxiv.org/pdf/2608.02833) [[Code]](https://github.com/xhguo7/CURV) [[Project]](https://xhguo7.github.io/CURV/)  
 
 
 **Powering Agents with Generative AI: A Research Agenda for Generative Agent-Based Models** <br>
