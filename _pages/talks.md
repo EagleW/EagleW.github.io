@@ -13,6 +13,10 @@ author_profile: true
 ## Talks
 <ul>
   <li>
+    <p><b>Building an Auditable GeoAI Workflow</b></p>
+    2026 International Symposium on Spatiotemporal Data Science, Aug 2026
+  </li>
+  <li>
     <p><b>LLMs Copyright Risks: Copyright and Plagiarism in AI4Science</b></p>
     <p><a href="https://zhangdenghui.site/naacl-copyright-tutorial-web/"><b>NAACL Tutorial: LLMs and Copyright Risks: Benchmarks and Mitigation Approaches</b></a>, May 2025</p>
   </li>
