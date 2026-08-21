@@ -10,7 +10,7 @@ For the full publication list, see [[Google Scholar Profile](https://scholar.goo
 
 ### 2026
 
-**[AnaBench for Enhancing Scientific Table & Figure Analysis]https://xhguo7.github.io/Anagent/)**<br>
+**[AnaBench for Enhancing Scientific Table & Figure Analysis](https://xhguo7.github.io/Anagent/)**<br>
 Xuehang Guo, Zhiyong Lu, Tom Hope, **Qingyun Wang**. in **EMNLP 2026**
 [[Paper]](https://arxiv.org/abs/2602.10081) [[Code]](https://github.com/xhguo7/Anagent) [[Project]](https://xhguo7.github.io/Anagent/)  
 
