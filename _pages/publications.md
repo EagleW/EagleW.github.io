@@ -10,6 +10,13 @@ For the full publication list, see [[Google Scholar Profile](https://scholar.goo
 
 ### 2026
 
+**[AnaBench for Enhancing Scientific Table & Figure Analysis]https://xhguo7.github.io/Anagent/)**<br>
+Xuehang Guo, Zhiyong Lu, Tom Hope, **Qingyun Wang**. in **EMNLP 2026**
+[[Paper]](https://arxiv.org/abs/2602.10081) [[Code]](https://github.com/xhguo7/Anagent) [[Project]](https://xhguo7.github.io/Anagent/)  
+
+**[Decoupled Physical Modeling and Execution for Physics Reasoning]()**
+Ye Zhang, Xuehang Guo, Rui Pan, Pengfei Yu, Denghui Zhang, Manling Li, **Qingyun Wang**. in **EMNLP 2026**
+
 **[CURV: Enhancing Chart Understanding Through Curriculum Visual Grounded Reasoning](https://arxiv.org/abs/2608.02833)** <br>
 Xuehang Guo, Pingyue Zhang, Ruiyi Zhang, Zhenhailong Wang, Hanrui Lyu, Heng Ji, Tong Sun **Qingyun Wang**, Manling Li. in **COLM 2026**.  <br>
 [[Paper]](https://arxiv.org/pdf/2608.02833) [[Code]](https://github.com/xhguo7/CURV) [[Project]](https://xhguo7.github.io/CURV/)  
