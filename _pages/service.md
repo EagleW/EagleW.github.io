@@ -23,7 +23,7 @@ author_profile: true
 * ICML, NeurIPS, ICLR, AISTATS, AAAI, IJCAI, ECAI
 
 ### Journal Reviewer
-* <b>Nature Human Behaviour</b>, <b>Nature Communications Chemistry</b>, Journal of the American Medical Informatics Association, Bioinformatics, Transactions on Audio, Speech and Language Processing, Engineering Applications of Artificial Intelligence, Neural Processing Letters, ACM Transactions on Asian and Low-Resource Language Information Processing, Neurocomputing
+* <b>Nature Human Behaviour</b>, <b>Nature Communications Chemistry</b>, Transactions on Machine Learning Research, Journal of the American Medical Informatics Association, Bioinformatics, Transactions on Audio, Speech and Language Processing, Engineering Applications of Artificial Intelligence, Neural Processing Letters, ACM Transactions on Asian and Low-Resource Language Information Processing, Neurocomputing
 
 ### Workshop Program Committee Member
 * RepL4NLP, WiNLP, AI4Research@IJCAI 2024,  KnowledgeLM @ACL 2024, KnowledgeNLP (2023-)
