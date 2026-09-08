@@ -10,6 +10,9 @@ For the full publication list, see [[Google Scholar Profile](https://scholar.goo
 
 ### 2026
 
+**Exploring Agentic Multimodal Large Language Models: A Survey for AIScientists](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176344216.60619335/v2)** <br>
+Jinglin Jian, Yi R. Fung, Denghui Zhang, Yiqian Liang, Qingyu Chen, Zhiyong Lu, **Qingyun Wang**. in **AACL-IJCNLP 2026**
+
 **[AnaBench for Enhancing Scientific Table & Figure Analysis](https://xhguo7.github.io/Anagent/)**<br>
 Xuehang Guo, Zhiyong Lu, Tom Hope, **Qingyun Wang**. in **EMNLP 2026** <br>
 [[Paper]](https://arxiv.org/abs/2602.10081) [[Code]](https://github.com/xhguo7/Anagent) [[Project]](https://xhguo7.github.io/Anagent/)  

@@ -39,6 +39,8 @@ I'm happy to collaborate and answer questions about my research.
 
 # Recent News
 
+* Sept 8, 2026: One paper accepted to AACL-IJCNLP 2026! Congrats to all the students and collaborators.
+
 * Aug 20, 2026: Two papers accepted to EMNLP 2026! Congrats to all the students and collaborators.
 
 * Aug 16, 2026. We received an NSF NAIRR Pilot computation award to support the development of a multimodal, hierarchical cyberattack simulation suite for water infrastructure.
