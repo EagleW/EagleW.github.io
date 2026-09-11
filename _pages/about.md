@@ -17,7 +17,7 @@ Email: qwang16 [at] wm [dot] edu
 
 Hello!
 
-I am Qingyun Wang, an Assistant Professor of the [Data Science Department](https://cdsp.wm.edu/data-science/people/wang-qingyun.php) at [College of William and Mary](https://www.wm.edu/). 
+I am Qingyun Wang, an Assistant Professor of the [Data Science Department](https://cdsp.wm.edu/data-science/people/wang-qingyun.php) at [College of William and Mary](https://www.wm.edu/), with a courtesy appointment in Computer Science Department. 
 
 I received my Ph.D. degree from the [Siebel School of Computing and Data Science](https://cs.illinois.edu/) at the [University of Illinois at Urbana-Champaign](https://illinois.edu/) in 2025. Previously, I graduated <i>summa cum laude</i> from [Rensselaer Polytechnic Institute](http://www.rpi.edu/) with a dual B.S. degree in Computer Science and Mathematics in 2019. From 2017 to 2025, I was a member of the [BLENDER Lab](http://blender.cs.illinois.edu/) and was fortunate to have [Prof. Heng Ji](http://blender.cs.illinois.edu/hengji.html) as my advisor. I am also grateful for the mentorship from Prof. [Jiawei Han](https://hanj.cs.illinois.edu/), Prof. [Lifu Huang](https://wilburone.github.io/), and Prof. [Tom Hope](https://tomhoper.github.io/). 
 
