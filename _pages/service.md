@@ -16,7 +16,7 @@ author_profile: true
  * ACL, AACL
   
 ### Area Chair
- * ACL Rolling Review, EACL Demo, EMNLP Demo, NeurIPS
+ * ACL Rolling Review, EACL Demo, EMNLP Demo, NeurIPS, ICML
 
 ### Program Committee
 * NAACL/ACL/EMNLP Tutorials, ACL Rolling Review, ACL, EMNLP, NAACL, EMNLP Industry, AACL, INLG, COLING, EACL, LREC, COLM, ACL Demo, EACL Demo, EMNLP Demo, COLING Demo
