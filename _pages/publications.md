@@ -11,7 +11,7 @@ For the full publication list, see [[Google Scholar Profile](https://scholar.goo
 ### 2026
 
 **[Exploring Agentic Multimodal Large Language Models: A Survey for AIScientists](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176344216.60619335/v2)** <br>
-Jinglin Jian, Yi R. Fung, Denghui Zhang, Yiqian Liang, Qingyu Chen, Zhiyong Lu, **Qingyun Wang**. in **AACL-IJCNLP 2026**  <b>(Oral Presentation)</b><br>
+Jinglin Jian, Yi R. Fung, Denghui Zhang, Yiqian Liang, Qingyu Chen, Zhiyong Lu, **Qingyun Wang**. in **AACL-IJCNLP 2026**  <br>
 [[Reading List]](https://github.com/JianJinglin/awesome-agentic-AIScientists)
 
 **[AnaBench for Enhancing Scientific Table & Figure Analysis](https://xhguo7.github.io/Anagent/)**<br>
