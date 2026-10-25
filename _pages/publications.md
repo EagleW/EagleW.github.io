@@ -16,10 +16,11 @@ Jinglin Jian, Yi R. Fung, Denghui Zhang, Yiqian Liang, Qingyu Chen, Zhiyong Lu, 
 
 **[AnaBench for Enhancing Scientific Table & Figure Analysis](https://xhguo7.github.io/Anagent/)**<br>
 Xuehang Guo, Zhiyong Lu, Tom Hope, **Qingyun Wang**. in **EMNLP 2026** <br>
-[[Paper]](https://arxiv.org/abs/2602.10081) [[Code]](https://github.com/xhguo7/Anagent) [[Project]](https://xhguo7.github.io/Anagent/)  
+[[Paper]](https://aclanthology.org/2026.emnlp-main.1454.pdf) [[Code]](https://github.com/xhguo7/Anagent) [[Project]](https://xhguo7.github.io/Anagent/) [[Bib]](https://aclanthology.org/2026.emnlp-main.1454.bib) 
 
-**[Decoupled Physical Modeling and Execution for Physics Reasoning](https://arxiv.org/pdf/2608.22126)** <br>
+**[Decoupled Physical Modeling and Execution for Physics Reasoning](https://aclanthology.org/2026.emnlp-main.1405.pdf)** <br>
 Ye Zhang, Xuehang Guo, Rui Pan, Pengfei Yu, Denghui Zhang, Manling Li, **Qingyun Wang**. in **EMNLP 2026**
+[[Paper]](https://aclanthology.org/2026.emnlp-main.1405.pdf) [[Code]](https://github.com/yzhg9/PhysicsModeling) [[Bib]](https://aclanthology.org/2026.emnlp-main.1405.bib) 
 
 **[CURV: Enhancing Chart Understanding Through Curriculum Visual Grounded Reasoning](https://arxiv.org/abs/2608.02833)** <br>
 Xuehang Guo, Pingyue Zhang, Ruiyi Zhang, Zhenhailong Wang, Hanrui Lyu, Heng Ji, Tong Sun, **Qingyun Wang**, Manling Li. in **COLM 2026**.  <br>
