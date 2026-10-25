@@ -19,7 +19,7 @@ Xuehang Guo, Zhiyong Lu, Tom Hope, **Qingyun Wang**. in **EMNLP 2026** <br>
 [[Paper]](https://aclanthology.org/2026.emnlp-main.1454.pdf) [[Code]](https://github.com/xhguo7/Anagent) [[Project]](https://xhguo7.github.io/Anagent/) [[Bib]](https://aclanthology.org/2026.emnlp-main.1454.bib) 
 
 **[Decoupled Physical Modeling and Execution for Physics Reasoning](https://aclanthology.org/2026.emnlp-main.1405.pdf)** <br>
-Ye Zhang, Xuehang Guo, Rui Pan, Pengfei Yu, Denghui Zhang, Manling Li, **Qingyun Wang**. in **EMNLP 2026**
+Ye Zhang, Xuehang Guo, Rui Pan, Pengfei Yu, Denghui Zhang, Manling Li, **Qingyun Wang**. in **EMNLP 2026**<br>
 [[Paper]](https://aclanthology.org/2026.emnlp-main.1405.pdf) [[Code]](https://github.com/yzhg9/PhysicsModeling) [[Bib]](https://aclanthology.org/2026.emnlp-main.1405.bib) 
 
 **[CURV: Enhancing Chart Understanding Through Curriculum Visual Grounded Reasoning](https://arxiv.org/abs/2608.02833)** <br>
