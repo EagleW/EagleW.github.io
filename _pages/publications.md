@@ -31,9 +31,9 @@ Xuehang Guo, Pingyue Zhang, Ruiyi Zhang, Zhenhailong Wang, Hanrui Lyu, Heng Ji, 
 Philippe J. Giabbanelli, Hamdi Kavak, Samarth Swarup, **Qingyun Wang**. in 2026 Winter Simulation Conference
 
 
-**[When to Think, When to Speak: Learning Disclosure Policies for Large Language Model Reasoning](https://arxiv.org/abs/2605.03314)** <br>
+**[When to Think, When to Speak: Learning Disclosure Policies for Large Language Model Reasoning](https://proceedings.mlr.press/v306/wei26i.html)** <br>
 Jiaqi Wei, Xuehang Guo, Pengfei Yu, Xiang Zhang, Wanli Ouyang, Siqi Sun, **Qingyun Wang**, Chenyu You. in **ICML 2026**.<br>
-[[Paper]](https://arxiv.org/abs/2605.03314)
+[[Paper]](https://proceedings.mlr.press/v306/wei26i.html) 
 
 
 **[CiteGuard: Faithful Citation Attribution for LLMs via Retrieval-Augmented Validation](https://kathcym.github.io/CiteGuard_Page/)** ![GitHub Repo stars](https://img.shields.io/github/stars/KathCYM/CiteGuard?style=social)<br>
