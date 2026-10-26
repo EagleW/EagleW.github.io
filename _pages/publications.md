@@ -22,9 +22,9 @@ Xuehang Guo, Zhiyong Lu, Tom Hope, **Qingyun Wang**. in **EMNLP 2026** <br>
 Ye Zhang, Xuehang Guo, Rui Pan, Pengfei Yu, Denghui Zhang, Manling Li, **Qingyun Wang**. in **EMNLP 2026**<br>
 [[Paper]](https://aclanthology.org/2026.emnlp-main.1405.pdf) [[Code]](https://github.com/yzhg9/PhysicsModeling) [[Bib]](https://aclanthology.org/2026.emnlp-main.1405.bib) 
 
-**[CURV: Enhancing Chart Understanding Through Curriculum Visual Grounded Reasoning](https://arxiv.org/abs/2608.02833)** <br>
+**[CURV: Enhancing Chart Understanding Through Curriculum Visual Grounded Reasoning](https://openreview.net/forum?id=LstTalypV4)** <br>
 Xuehang Guo, Pingyue Zhang, Ruiyi Zhang, Zhenhailong Wang, Hanrui Lyu, Heng Ji, Tong Sun, **Qingyun Wang**, Manling Li. in **COLM 2026**.  <br>
-[[Paper]](https://arxiv.org/pdf/2608.02833) [[Code]](https://github.com/xhguo7/CURV) [[Project]](https://xhguo7.github.io/CURV/)  
+[[Paper]](https://openreview.net/forum?id=LstTalypV4) [[Code]](https://github.com/xhguo7/CURV) [[Project]](https://xhguo7.github.io/CURV/)  
 
 
 **Powering Agents with Generative AI: A Research Agenda for Generative Agent-Based Models** <br>
