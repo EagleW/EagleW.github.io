@@ -39,6 +39,8 @@ I'm happy to collaborate and answer questions about my research.
 
 # Recent News
 
+* Oct 27, 2026: Excited to deliver an invited tutorial for the Canadian Consortium on [Agentic AI for Health Science Discovery (AID4HS)](https://aid4hs.ca/) , in Jan 2027!
+
 * Sept 8, 2026: One paper accepted to AACL-IJCNLP 2026! Congrats to all the students and collaborators.
 
 * Aug 20, 2026: Two papers accepted to EMNLP 2026! Congrats to all the students and collaborators.
