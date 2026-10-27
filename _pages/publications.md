@@ -15,7 +15,7 @@ Jinglin Jian, Yi R. Fung, Denghui Zhang, Yiqian Liang, Qingyu Chen, Zhiyong Lu, 
 [[Reading List]](https://github.com/JianJinglin/awesome-agentic-AIScientists)
 
 **[AnaBench for Enhancing Scientific Table & Figure Analysis](https://xhguo7.github.io/Anagent/)**<br>
-Xuehang Guo, Zhiyong Lu, Tom Hope, **Qingyun Wang**. in **EMNLP 2026** <br>
+Xuehang Guo, Zhiyong Lu, Tom Hope, **Qingyun Wang**. in **EMNLP 2026** <b>(Oral Presentation)</b><br>
 [[Paper]](https://aclanthology.org/2026.emnlp-main.1454.pdf) [[Code]](https://github.com/xhguo7/Anagent) [[Project]](https://xhguo7.github.io/Anagent/) [[Bib]](https://aclanthology.org/2026.emnlp-main.1454.bib) 
 
 **[Decoupled Physical Modeling and Execution for Physics Reasoning](https://aclanthology.org/2026.emnlp-main.1405.pdf)** <br>
