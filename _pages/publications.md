@@ -14,15 +14,15 @@ For the full publication list, see [[Google Scholar Profile](https://scholar.goo
 Jinglin Jian, Yi R. Fung, Denghui Zhang, Yiqian Liang, Qingyu Chen, Zhiyong Lu, **Qingyun Wang**. in **AACL-IJCNLP 2026**  <br>
 [[Reading List]](https://github.com/JianJinglin/awesome-agentic-AIScientists)
 
-**[AnaBench for Enhancing Scientific Table & Figure Analysis](https://xhguo7.github.io/Anagent/)**<br>
+**[AnaBench for Enhancing Scientific Table & Figure Analysis](https://xhguo7.github.io/Anagent/)** ![GitHub Repo stars](https://img.shields.io/github/stars/xhguo7/Anagent?style=social)<br>
 Xuehang Guo, Zhiyong Lu, Tom Hope, **Qingyun Wang**. in **EMNLP 2026** <b>(Oral Presentation)</b><br>
 [[Paper]](https://aclanthology.org/2026.emnlp-main.1454.pdf) [[Code]](https://github.com/xhguo7/Anagent) [[Project]](https://xhguo7.github.io/Anagent/) [[Bib]](https://aclanthology.org/2026.emnlp-main.1454.bib) 
 
-**[Decoupled Physical Modeling and Execution for Physics Reasoning](https://aclanthology.org/2026.emnlp-main.1405.pdf)** <br>
+**[Decoupled Physical Modeling and Execution for Physics Reasoning](https://aclanthology.org/2026.emnlp-main.1405.pdf)** ![GitHub Repo stars](https://img.shields.io/github/stars/yzhg9/PhysicsModeling?style=social)<br>
 Ye Zhang, Xuehang Guo, Rui Pan, Pengfei Yu, Denghui Zhang, Manling Li, **Qingyun Wang**. in **EMNLP 2026**<br>
 [[Paper]](https://aclanthology.org/2026.emnlp-main.1405.pdf) [[Code]](https://github.com/yzhg9/PhysicsModeling) [[Bib]](https://aclanthology.org/2026.emnlp-main.1405.bib) 
 
-**[CURV: Enhancing Chart Understanding Through Curriculum Visual Grounded Reasoning](https://openreview.net/forum?id=LstTalypV4)** <br>
+**[CURV: Enhancing Chart Understanding Through Curriculum Visual Grounded Reasoning](https://openreview.net/forum?id=LstTalypV4)** ![GitHub Repo stars](https://img.shields.io/github/stars/xhguo7/CURV?style=social)<br>
 Xuehang Guo, Pingyue Zhang, Ruiyi Zhang, Zhenhailong Wang, Hanrui Lyu, Heng Ji, Tong Sun, **Qingyun Wang**, Manling Li. in **COLM 2026**.  <br>
 [[Paper]](https://openreview.net/forum?id=LstTalypV4) [[Code]](https://github.com/xhguo7/CURV) [[Project]](https://xhguo7.github.io/CURV/)  
 
