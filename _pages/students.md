@@ -55,12 +55,16 @@ author_profile: true
 
 
 ## Alumni
-* Yee Man Choi, 2025-2026, PhD @ University of Waterloo
+* Yee Man Choi, 2025-2026, PhD @ University of Waterloo ([ACL 2026 Main](ttps://aclanthology.org/2026.acl-long.282.pdf))
+* Ye Zhang, 2025, MS Student @ UPenn ([EMNLP 2025 Main](https://aclanthology.org/2026.emnlp-main.1405.pdf)) 
 * Kelvin Yuxiang Huang, 2025-2026, Undergraduate at University of California Berkeley → PhD @ University of Toronto
-* Jinglin Jian, 2025, MS Student at UIUC → PhD @ Scripps Research
-* Jiayi He, 2024-2025, Undergraduate at South China University of Technology → PhD @ Georgia Institute of Technology
-* Hehai Lin, 2024-2025, Undergraduate at Sun Yat-sen University → PhD @ HKUST
-* Yumeng Wang, 2024-2025, Undergraduate at HKUST → PhD @ UIUC
-* Priya Pitre, 2024-2025, MS Student at Virginia Tech → PhD @ Virginia Tech
-* Hongyi Liu, 2023-2024, Undergraduate at Shanghai Jiaotong University → PhD @ University of Wisconsin-Madison
+* Jinglin Jian, 2025, MS Student @ UIUC ([AACL-IJCNLP 2026 Main](https://aclanthology.org/2026.aacl-long.52.pdf)) → PhD @ Scripps Research
+* Junsheng Huang, 2025, Undergrad @ UIUC ([EMNLP 2025 Main](https://aclanthology.org/2025.emnlp-main.35.pdf)) →  MS Student @ UIUC
+* Zhitao He, 2025, PhD @ HKUST ([EMNLP 2025 Main](https://aclanthology.org/2025.emnlp-main.35.pdf))
+* Minghao Liu, 2025, Undergraduate @ HKUST ([EMNLP 2025 Findings](https://aclanthology.org/2025.findings-emnlp.41.pdf)) → PhD @ HKUST
+* Jiayi He, 2024-2025, Undergraduate @ SCUT ([ACL 2025 Findings](https://aclanthology.org/2025.findings-acl.331.pdf)) → PhD @ Georgia Tech
+* Hehai Lin, 2024-2025, Undergraduate @ SYU ([ACL 2025 Findings](https://aclanthology.org/2025.findings-acl.331.pdf)) → PhD @ HKUST
+* Yumeng Wang, 2024-2025, Undergraduate @ HKUST ([NAACL 2025 Findings]((https://aclanthology.org/2025.findings-naacl.152.pdf)) → PhD @ UIUC
+* Priya Pitre, 2024-2025, MS Student @ VT → PhD @ VT
+* Hongyi Liu, 2023-2024, Undergraduate @ SJTU ([NAACL 2025 Main](https://aclanthology.org/2024.naacl-long.1.pdf))) → PhD @ University of Wisconsin-Madison
 * and more
