@@ -57,7 +57,7 @@ author_profile: true
 ## Alumni
 * Yee Man Choi, 2025-2026, PhD @ University of Waterloo ([ACL 2026 Main](ttps://aclanthology.org/2026.acl-long.282.pdf))
 * Ye Zhang, 2025, MS Student @ UPenn ([EMNLP 2025 Main](https://aclanthology.org/2026.emnlp-main.1405.pdf)) 
-* Kelvin Yuxiang Huang, 2025-2026, Undergraduate at University of California Berkeley → PhD @ University of Toronto
+* Kelvin Yuxiang Huang, 2025-2026, Undergraduate at University of California Berkeley ([PerFM Workshop @ AAAI 2026](https://personalizedllm.github.io/events/perfm-aaai26/)) → PhD @ University of Toronto
 * Jinglin Jian, 2025, MS Student @ UIUC ([AACL-IJCNLP 2026 Main](https://aclanthology.org/2026.aacl-long.52.pdf)) → PhD @ Scripps Research
 * Junsheng Huang, 2025, Undergrad @ UIUC ([EMNLP 2025 Main](https://aclanthology.org/2025.emnlp-main.35.pdf)) →  MS Student @ UIUC
 * Zhitao He, 2025, PhD @ HKUST ([EMNLP 2025 Main](https://aclanthology.org/2025.emnlp-main.35.pdf))
