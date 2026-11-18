@@ -13,6 +13,11 @@ author_profile: true
 ## Talks
 <ul>
   <li>
+    <p><b>AI4Scientist: Evidence-Grounded Scientific Assistants</b></p>
+    <p>Virginia Tech, Nov 2026</p>
+    <p>Stony Brook University, Nov 2025</p>
+  </li>
+  <li>
     <p><b>Building an Auditable GeoAI Workflow</b></p>
     2026 International Symposium on Spatiotemporal Data Science, Aug 2026
   </li>
