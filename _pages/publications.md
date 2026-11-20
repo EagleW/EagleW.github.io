@@ -27,7 +27,7 @@ Xuehang Guo, Pingyue Zhang, Ruiyi Zhang, Zhenhailong Wang, Hanrui Lyu, Heng Ji, 
 [[Paper]](https://openreview.net/forum?id=LstTalypV4) [[Code]](https://github.com/xhguo7/CURV) [[Project]](https://xhguo7.github.io/CURV/)  
 
 
-**Powering Agents with Generative AI: A Research Agenda for Generative Agent-Based Models** <br>
+**[Powering Agents with Generative AI: A Research Agenda for Generative Agent-Based Models](https://ssl.linklings.net/conferences/wsc/wsc2026_program/views/by_date.html#con289)** <br>
 Philippe J. Giabbanelli, Hamdi Kavak, Samarth Swarup, **Qingyun Wang**. in 2026 Winter Simulation Conference
 
 
